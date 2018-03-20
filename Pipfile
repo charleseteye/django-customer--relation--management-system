@@ -8,6 +8,7 @@ name = "pypi"
 [packages]
 
 django = "==1.7.1"
+dj-static = "*"
 
 
 [dev-packages]
